@@ -10,6 +10,10 @@ a hole for a attacker to get in to.
 This project contains a python file that starts a revers shell attack wich can be used as a
 exploit to gain root 🌳.
 
+# How to start the attack
+start by listening on the attackers side 
+command : ssty raw -echo; (stty size; cat) | nc -lvnp port -s IPaddr
+
 # disclamer
 please don't spread this as malware or use on othere's with out concent,
 this script was made for the pure pupose of education and cyber sucrity in mind.
