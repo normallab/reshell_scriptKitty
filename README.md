@@ -3,11 +3,11 @@
 # main description
 
 This project is a quick script that opens a ssh server on a computer.
-This script can make a ssh server with out the user even knowing this can also be used to make
-a hole for a persion to get in to. 
+This script injects a revershell command with out the user even knowing this can also be used to make
+a hole for a attacker to get in to. 
 
 # nots so long description 
-This project contains a python file that starts a ssh server wich can be used as a
+This project contains a python file that starts a revers shell attack wich can be used as a
 exploit to gain root 🌳.
 
 # disclamer
