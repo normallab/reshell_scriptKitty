@@ -1,6 +1,5 @@
 #!/usr/bin/env python3 
 
-import socket
 import keyboard
 
 #---starting the main method to start program
