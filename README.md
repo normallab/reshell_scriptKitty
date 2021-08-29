@@ -1,7 +1,7 @@
 # 🖥🔄🖥 reversShell_automation
 # main description
 
-This project is a quick script that opens a ssh server on a computer.
+This project is a quick script that opens a revers shell script on a targets computer.
 This script injects a revershell command with out the user even knowing this can also be used to make
 a hole for a attacker to get in to. 
 
